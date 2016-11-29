@@ -2,6 +2,8 @@
 
 A tiny Clojure library, which provides a REPL-friendly substitute for Vars with dependencies.
 
+[![Clojars Project](https://img.shields.io/clojars/v/defderived.svg)](https://clojars.org/defderived)
+
 ## Motivation and usage
 
 Imagine for instance that you have three global Vars `#'x`, `#'y` and `#'z`,
