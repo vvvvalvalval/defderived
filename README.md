@@ -2,7 +2,7 @@
 
 A tiny Clojure library, which provides a REPL-friendly substitute for Vars with dependencies.
 
-[![Clojars Project](https://img.shields.io/clojars/v/defderived.svg)](https://clojars.org/defderived)
+[![Clojars Project](https://img.shields.io/clojars/v/vvvvalvalval/defderived.svg)](https://clojars.org/vvvvalvalval/defderived)
 
 ## Motivation and usage
 
